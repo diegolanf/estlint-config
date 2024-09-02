@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Medialesson ESLint configuration",
+  "author": "Medialesson GmbH",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
